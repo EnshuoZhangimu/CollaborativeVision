@@ -9,5 +9,7 @@ The source code will be released after the article is published.
 
 *_DifferDeteShowExeDyn is a dynamic diagram of the execution process of differential TOPI
 
+* is simulate material's name, which can be CamLiDAR,CityHUAndVC, GenVTC and CityPureHU
+
 simulation material:
 https://pan.baidu.com/s/1uZ7iS5NXXiXbjUtzQbuaow?pwd=cesj
