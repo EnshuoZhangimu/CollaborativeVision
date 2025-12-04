@@ -1,6 +1,8 @@
 # CollaborativeVision
 The source code will be released after the article is published.
 
+LiDARModel.gif is the dynamic image of the 3D LiDAR model used in this article
+
 *_LiDARDeteShowPreDealDyn is a dynamic diagram of the LiDAR TOPI(target/object position illation) preprocessing process
 
 *_LiDARDeteShowExeDealDyn is a dynamic diagram of the execution process of LiDAR TOPI
