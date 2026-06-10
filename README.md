@@ -1,5 +1,6 @@
 # CollaborativeVision
-The source code will be released after the article is published.
+Due to the large number of third-party libraries (opencv4.3.0 and eigen3.4.0) used in the code, the upload to GitHub is slow. We will provide a cloud drive connection and upload the organized project to GitHub in the future. The code link is as follows:
+https://pan.baidu.com/s/1hMGaw-mTjNHz33rsUvtrWA?pwd=sxkq access code: sxkq 
 
 LiDARModel.gif is the dynamic image of the 3D LiDAR model used in this article
 
