@@ -2,6 +2,11 @@
 Due to the large number of third-party libraries (opencv4.3.0 and eigen3.4.0) used in the code, the upload to GitHub is slow. We will provide a cloud drive connection and upload the organized project to GitHub in the future. The code link is as follows:
 https://pan.baidu.com/s/1hMGaw-mTjNHz33rsUvtrWA?pwd=sxkq access code: sxkq 
 
+1. After decompressing LiDAR Tools, open qtcreator and compile it. Use the compiled interface to operate relevant algorithms for experimentation
+2. humanDet is used to add code for comparative experiments, with script.by used for executing and evaluating experiments, and visualization.by used for visualizing experimental results
+3. Additional experimental video tutorials will be provided in the future
+
+
 LiDARModel.gif is the dynamic image of the 3D LiDAR model used in this article
 
 *_LiDARDeteShowPreDealDyn is a dynamic diagram of the LiDAR TOPI(target/object position illation) preprocessing process
