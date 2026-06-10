@@ -1,4 +1,7 @@
 # CollaborativeVision
+The article has been submitted to The Visual Computer. The DOI of the article is as follows:
+https://doi.org/10.5281/zenodo.20604850
+
 Due to the large number of third-party libraries (opencv4.3.0 and eigen3.4.0) used in the code, the upload to GitHub is slow. We will provide a cloud drive connection and upload the organized project to GitHub in the future. The code link is as follows:
 https://pan.baidu.com/s/1hMGaw-mTjNHz33rsUvtrWA?pwd=sxkq access code: sxkq 
 
